@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; normalTitle = "submit"; ObjectID = "0fE-Ze-xlV"; */
+"0fE-Ze-xlV.normalTitle" = "submit";
+
+/* Class = "UILabel"; text = "password"; ObjectID = "1p0-tr-ZGe"; */
+"1p0-tr-ZGe.text" = "password";
+
+/* Class = "UITextField"; placeholder = "password"; ObjectID = "GGk-vb-xbI"; */
+"GGk-vb-xbI.placeholder" = "电子邮件";
+
+/* Class = "UITextField"; placeholder = "email ID"; ObjectID = "SnC-QQ-jRK"; */
+"SnC-QQ-jRK.placeholder" = "电子邮件";
+
+/* Class = "UILabel"; text = "email"; ObjectID = "hqk-Vi-eas"; */
+"hqk-Vi-eas.text" = "电子邮件";
